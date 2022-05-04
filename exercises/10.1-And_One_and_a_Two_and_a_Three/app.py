@@ -4,4 +4,4 @@ contact = {
     "email": "test@test.com"
 }
 #Your code here:
-
+print(contact.keys())
